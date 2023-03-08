@@ -5,28 +5,28 @@
     "url": "#"
   },
   {
-    "title": "Astro Docs",
+    "title": "Collectibility",
     "image": "./images/astro-docs.png",
-    "url": "https://docs.astro.build/"
+    "url": "#"
   },
   {
-    "title": "<div>RIOTS",
+    "title": "Rewards",
     "image": "./images/divriots.png",
-    "url": "https://divriots.com/"
+    "url": "#"
   },
   {
-    "title": "Designcember",
+    "title": "Voting Rights",
     "image": "./images/designcember.png",
-    "url": "https://designcember.com/"
+    "url": "#"
   },
   {
-    "title": "The Firebase Blog",
+    "title": "Membership",
     "image": "./images/firebase-blog.png",
-    "url": "https://firebase.blog/"
+    "url": "#"
   },
   {
-    "title": "Corset",
+    "title": "Staking",
     "image": "./images/corset.png",
-    "url": "https://corset.dev/"
+    "url": "#"
   }
 ]
