@@ -1,10 +1,14 @@
 ---
+import { Picture } from "@astrojs/image/components";
 import { Icon } from "astro-icon";
+import logo from "~/icons/logo.png";
 import ContentSection from "~/components/content-section.astro";
+const widths = [450, 800];
 ---
 
 <ContentSection title="Web3 Betting Platform" id="intro">
-  <Icon slot="eyebrow" name="logomark" class="h-32" />
+  <Picture slot="eyebrow" widths={widths} src={logo} alt="Logo" className="h-36" />
+  {/*<Icon slot="eyebrow" name="logomark" class="h-32" />*/}
   <Fragment slot="lead">
     Join the revolution in sports betting with
     <span class="text-primary">Kripto.Futbol</span> the uncensored,
