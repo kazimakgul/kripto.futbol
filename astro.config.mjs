@@ -4,7 +4,7 @@ import { defineConfig } from "astro/config";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://web3sports.netlify.app/",
+  site: "https://web3sports.app/",
   integrations: [
     tailwind(),
     image({
